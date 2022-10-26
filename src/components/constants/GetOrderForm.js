@@ -1,0 +1,15 @@
+const FULL_NAME = "FULL_NAME";
+const EMAIL = "EMAIL";
+const PHONE_NUMBER = "PHONE_NUMBER";
+const ADDRESS = "ADDRESS";
+const MA_GIAM_GIA = "MA_GIAM_GIA";
+const MESSAGE = "MESSAGE";
+
+export {
+    FULL_NAME,
+    EMAIL,
+    PHONE_NUMBER,
+    ADDRESS,
+    MA_GIAM_GIA,
+    MESSAGE
+};
