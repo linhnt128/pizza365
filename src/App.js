@@ -10,7 +10,8 @@ import ContentComponent from "./components/content/ContentComponent";
 
 
 function App() {
-  console.log("test");
+  alert("123");
+  alert("999")
   return (
     <div>
         <div className="container-fluid">
